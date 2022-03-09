@@ -1,0 +1,18 @@
+# This file contains generic meta-data about the course
+
+Course:
+  Language:
+    Name: Hungarian
+    IETF BCP 47: hu
+  For speakers of:
+    Name: Spanish
+    IETF BCP 47: es
+  License:
+    Name: Attribution-ShareAlike 4.0 International
+    Short name: CC BY-SA 4.0
+    Link: https://creativecommons.org/licenses/by-sa/4.0/
+  Repository: https://github.com/szabgab/LibreLingo-Judeo-Hungarian-from-Spanish
+  Special characters: []
+
+Modules:
+  - words/
