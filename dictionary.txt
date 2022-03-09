@@ -1,2 +1,7 @@
 # names
-asztal <=> mesa
+asztal   <=> mesa
+szekrény <=> armario
+szék     <=> silla
+tükör    <=> espejo
+ágy      <=> cama
+

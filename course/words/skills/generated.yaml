@@ -7,8 +7,24 @@ New words: []
 Phrases: []
 Mini-dictionary:
   Spanish:
+    - armario:
+      - szekrény
+    - cama:
+      - ágy
+    - espejo:
+      - tükör
     - mesa:
       - asztal
+    - silla:
+      - szék
   Hungarian:
     - asztal:
       - mesa
+    - szekrény:
+      - armario
+    - szék:
+      - silla
+    - tükör:
+      - espejo
+    - ágy:
+      - cama
