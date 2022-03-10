@@ -9,17 +9,73 @@ Mini-dictionary:
   Spanish:
     - armario:
       - szekrény
+    - banana:
+      - banán
+    - cacao:
+      - kakaó
+    - café:
+      - kávé
     - cama:
       - ágy
+    - caqui:
+      - datolyaszilva
+    - cereza:
+      - cseresznye
+    - durián:
+      - durián
     - espejo:
       - tükör
+    - jugo de frutas:
+      - gyümölcslé
+    - manzana:
+      - alma
+    - membrillo:
+      - birs
     - mesa:
       - asztal
+    - nuez:
+      - dió
+    - piña:
+      - ananász
+    - rosa mosqueta:
+      - csipkebogyó
+    - saúco:
+      - bodza
     - silla:
       - szék
+    - vino:
+      - bor
   Hungarian:
+    - alma:
+      - manzana
+    - ananász:
+      - piña
     - asztal:
       - mesa
+    - banán:
+      - banana
+    - birs:
+      - membrillo
+    - bodza:
+      - saúco
+    - bor:
+      - vino
+    - cseresznye:
+      - cereza
+    - csipkebogyó:
+      - rosa mosqueta
+    - datolyaszilva:
+      - caqui
+    - dió:
+      - nuez
+    - durián:
+      - durián
+    - gyümölcslé:
+      - jugo de frutas
+    - kakaó:
+      - cacao
+    - kávé:
+      - café
     - szekrény:
       - armario
     - szék:
