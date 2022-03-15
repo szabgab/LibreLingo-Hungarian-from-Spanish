@@ -2,4 +2,8 @@ Module:
   Name: "Words"
 
 Skills:
+  - kategoriak.yaml
+  - gyumolcsok.yaml
   - butorok.yaml
+  - italok.yaml
+
